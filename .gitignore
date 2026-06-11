@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Vite
+.vite/
+dist/
+
+# Entorno
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+
+# Archivos locales / respaldos
+*.zip
+*.log
